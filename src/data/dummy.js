@@ -752,7 +752,7 @@ export const productsPerformance = [
   },
   {
     image:
-      product7,
+      product8,
     title: 'Red color candy from Gucci',
     desc: 'Chocolate, Yummy',
     rating: 'Average',
